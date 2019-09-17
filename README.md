@@ -108,5 +108,17 @@ Final grade = max{E,(2E + A)/3}
 
 
 ## Data Mining
+- Short **test** every lab (50% minimum)
+   - Attendance minimum 80%
+- **Midterm test** (50% minimum)
+- One **Assignment** (50% minimum)
+- Final **oral exam**
+- Final mark consists of 20% assignment, 20% midterm test, and 60% oral exam
 
-*TBA*
+**Grading scale:**
+```
+>= 50% satisfactory (2)
+>= 63% average (3)
+>= 75% good (4)
+>= 87% excellent (5)
+```
