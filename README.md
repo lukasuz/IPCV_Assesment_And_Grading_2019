@@ -1,5 +1,19 @@
 # Grading & Assessment
 
+## Test Dates
+??.?? - Multisensor Fusion and Navigation *unannounced*
+
+24.10 - Numerical Analysis
+
+24.10 - Multisensor Fusion and Navigation 1
+
+05.11 - Parallel Computing Architectures 1
+
+02.12 - Data Mining (09.12 Replacement)
+
+05.12 - Multisensor Fusion and Navigation 2
+
+10.12 - Parallel Computing Architectures 2
 
 
 ## Parallel Computing Architectures
