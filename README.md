@@ -87,7 +87,7 @@ Final grade = max{E,(2E + A)/3}
 - Slides mention **Colloquium** at end of course (*how does that fit into the grading scale?*)
 - **Tests**
   - Two announced tests, each 40%
-  - One unannounced test, 20%
+  - Multiple unannounced five-minute tests, 20%
 - Possible **end year task** can boost grade by 1 or 2.
 - **Good lab work** can bring 1-5% extra, bad working can bring -5%.
 
