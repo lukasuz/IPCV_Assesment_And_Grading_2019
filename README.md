@@ -34,7 +34,7 @@
 **Offered Grade**:
 
 ```
-Get a 5, if you have 90% in the tests (20/22), labs (10/11), and assignments (20/22).
+Get a 5, if you have 90% in the tests (22/24), labs (10/11), and assignments (20/22).
 ```
 
 
